@@ -49,5 +49,5 @@ The commands are:
 
 ## ----------------- How to use the program --------------
 * compile: gcc -g -Wall -o sets sets.c
-* run: ./sets <number of sets>
+* run: ./sets \<number of sets>
 
