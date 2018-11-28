@@ -45,3 +45,9 @@ The commands are:
 * 'q' or 'Q'
     * Quits the program
 
+## ------------------------------------------------------------
+
+## ----------------- How to use the program --------------
+* compile: gcc -g -Wall -o sets sets.c
+* run: ./sets <number of sets>
+
