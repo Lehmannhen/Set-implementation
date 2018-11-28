@@ -17,4 +17,31 @@ The commands are:
     * User gets prompted for subscript to the first set
     * User gets prompted for subscript to the second set
     * The union of these two sets gets stored in a new set
-    *  A new subscript to this set is given
+    * A new subscript to this set is given
+* 'i' or 'I'
+    * User gets prompted for subscript to the first set
+    * User gets prompted for subscript to the second set
+    * The intersection of these two sets gets stored in a new set
+    * A new subscript to this set is given
+* 's' or 'S'
+    * User gets prompted for subscript to the first set
+    * User gets prompted for subscript to the second set
+    * The set difference (set1 - set2) of these two sets gets stored in a new set
+    * A new subscript to this set is given
+* 'n' or 'N'
+    * User can create a new set by typing numbers on the command line
+    * Each number typed should have a return after and the sequence should be increasing
+    * E.g: 1 (enter), 2 (enter), 3 (enter) -1 (enter) A negative number is typed when done
+    * A new subscript to this set is given
+* 'p' or 'P'
+    * User can print any set at any time by entering this command
+    * User gets prompted for subscript to the set
+    * The set is printed
+* 'd' or 'D'
+    * User gets prompted for the subscript to the set to be deleted
+    * The set at that position is deleted
+* 'a' or 'A'
+    * All sets are deleted
+* 'q' or 'Q'
+    * Quits the program
+
