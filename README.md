@@ -46,6 +46,10 @@ The commands are:
     * Quits the program
 
 ## ------------------------------------------------------------
+Example run of program:
+
+![run](https://raw.githubusercontent.com/Lehmannhen/Bisection-and-Newton-method/master/images/tty.gif)
+
 
 ## ----------------- How to use the program --------------
 * compile: gcc -g -Wall -o sets sets.c
