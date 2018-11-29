@@ -48,7 +48,7 @@ The commands are:
 ## ------------------------------------------------------------
 Example run of program:
 
-![run](https://raw.githubusercontent.com/Lehmannhen/Bisection-and-Newton-method/master/images/tty.gif)
+![run](https://raw.githubusercontent.com/Lehmannhen/Set-implementation/master/images/tty-small.gif)
 
 
 ## ----------------- How to use the program --------------
